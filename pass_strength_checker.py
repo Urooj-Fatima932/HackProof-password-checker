@@ -57,6 +57,7 @@ page_bg = """
 <style>
 [data-testid = "stAppViewContainer"]{
 background-color : #80775C;
+color:black
 }
 
 [data-testid = "stMainBlockContainer"]{
